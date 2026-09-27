@@ -1,0 +1,15 @@
+{
+  "name": "similarweb-scraper",
+  "version": "2.0.0",
+  "type": "module",
+  "description": "Website traffic, rank, and channel mix, no Similarweb login. Python, Node.js and cURL clients for the Similarweb Scraper on Apify, pay per result.",
+  "main": "similarweb_scraper.mjs",
+  "scripts": {
+    "start": "node similarweb_scraper.mjs"
+  },
+  "dependencies": {
+    "apify-client": "^2.9.0"
+  },
+  "license": "MIT",
+  "homepage": "https://themineworks.com/actors/similarweb-scraper/"
+}
