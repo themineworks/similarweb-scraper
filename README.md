@@ -5,7 +5,7 @@ Scrape Similarweb's free public website overview for any domain: estimated globa
 **Run it on Apify:** [apify.com/themineworks/similarweb-scraper](https://apify.com/themineworks/similarweb-scraper)
 **Docs, FAQ and pricing:** [themineworks.com/actors/similarweb-scraper](https://themineworks.com/actors/similarweb-scraper/)
 
-**Price:** $2.00 per 1,000 domains on Apify's free plan, down to $1.50 on higher plans, plus a $0.01 start fee per run. Failed and empty results are never charged.
+**Price:** From $1.50 per 1,000 domains on Apify's higher plans ($2.00 on the free plan), plus a $0.01 start fee per run. Failed and empty results are never charged.
 
 ## What it returns
 
@@ -14,7 +14,7 @@ Scrape Similarweb's free public website overview for any domain: estimated globa
 * Engagement: bounce rate, pages per visit, avg. visit duration
 * Traffic-source split: direct, search, social, referral, paid, mail
 * Top countries and similar/competitor sites
-* Zero charge on blocked or empty lookups
+* Blocked or empty lookups are never charged
 
 ## Quick start
 
@@ -138,7 +138,7 @@ Direct, organic search, paid search, social, referral, mail, and display, shown 
 
 ### What does it cost?
 
-Pay-per-event at $2 per 1,000 domains scraped ($0.002 each) plus a small per-run start fee. Blocked or empty lookups are never charged.
+Pay per result: from $1.50 per 1,000 domains on Apify's higher plans, $2.00 on the free plan, plus a $0.01 start fee per run. Blocked or empty lookups are never charged.
 
 ### Can I export the results to CSV or Excel?
 
